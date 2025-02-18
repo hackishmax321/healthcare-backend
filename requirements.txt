@@ -3,7 +3,7 @@ uvicorn==0.21.1
 pydantic==1.10.6
 bcrypt==4.0.1
 google-cloud-firestore==2.8.0
-google-cloud-vision==3.0.2
+google-cloud-vision
 google-auth==2.15.0
 spacy==3.4.1
 easyocr==1.5.1
